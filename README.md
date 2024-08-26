@@ -35,4 +35,4 @@ Details of algorithms and experimental results can be found in [our following pa
 }
 ```
 
-Our paper is currently under review, and the code will be made available soon. The project page can be found at: https://vancyland.github.io/PAP.github.io/
+Our paper is currently under review, and the code will be available soon. The project page can be found at: https://vancyland.github.io/PAP.github.io/
