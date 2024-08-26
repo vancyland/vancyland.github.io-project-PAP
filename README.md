@@ -1,7 +1,9 @@
 
 # Official PyTorch implementation of "PAP：Prompt-Agnostic Adversarial Perturbation for Customized Diffusion Models" 
-<a href="https://vancyland.github.io/PAP.github.io/"><img src="https://img.shields.io/badge/Website-anti--dreambooth.github.io-blue?style=for-the-badge"></a>
-<a href="https://www.arxiv.org/abs/2408.10571"><img src="https://img.shields.io/badge/arxiv-2303.15433-red?style=for-the-badge"></a>
+<a href="https://vancyland.github.io/PAP.github.io/"></a>
+<a href="https://www.arxiv.org/abs/2408.10571"></a>
+
+
 <div align="center">
   
   <a href="https://github.com/vancyland" target="_blank">Cong Wan</a> &emsp;
